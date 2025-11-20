@@ -127,6 +127,22 @@
     "integrantes": ["Carlos Riaño"],
     "actividad": "Webintoapp",
     "url": "https://drive.google.com/file/d/1NwsIFx62Sxm5CgTP-mtc4qHoKt1fPYqg/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "App StarWarsApi",
+    "descripción": "Aplicacion creada apartir de la Api de Star Wars con la posibilidad de buscar y un pequeño juego de trivia ",
+    "icono": "https://cdn-icons-png.flaticon.com/512/11911/11911455.png",
+    "integrantes": "Juan Pablo Castañeda",
+    "actividad": "webintoapp",
+    "url": "https://refactored-sniffle-5ggw7p46656rf4r74.github.dev/"
+  },
+  {
+    "nombreapp": "Supabase",
+    "descripción": "Actividad de Supabase",
+    "icono": "https://cdn-icons-png.flaticon.com/512/138/138928.png",
+    "integrantes": "Juan Pablo Castañeda",
+    "actividad": "webintoapp",
+    "url": "https://github.com/juanPablo1901/supabase-prueba"
   }
 
 ]
